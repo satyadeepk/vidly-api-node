@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "vidly_fjhdhdhncndf8vzv890v8a9ongitu74637ervurjv",
+  "db": "mongodb://heroku_d4jfz3rj:6m65ipgr4pl3coqfa0prdql16@ds133137.mlab.com:33137/heroku_d4jfz3rj",
+  "port": "3900",
+  "requiresAuth": false
+}
